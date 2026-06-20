@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+jinja2
+httpx
+yfinance
+pandas
+ta
+openpyxl
+python-dotenv
